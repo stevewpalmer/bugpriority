@@ -1,0 +1,19 @@
+{
+  "keywords": [
+    { "priority" : "critical",
+      "words" : [ "loss", "hang", "security"]
+    },
+    { "priority" : "blocker",
+      "words" : [ "blocking", "blocked", "block" ]
+    },
+    { "priority" : "major",
+      "words" : [ "crash", "serious", "major", "important", "exception" ]
+    },
+    { "priority" : "minor",
+      "words" : [ "must", "permission", "minor", "unimportant" ]
+    },
+    { "priority" : "trivial",
+      "words" : [ "should", "trivial", "easy", "simple" ]
+    }
+  ]
+}
